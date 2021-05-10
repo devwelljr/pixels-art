@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pixels Art</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1 id="title">Paleta de Cores</h1>
+    </header>
+    <div class="linhaPaleta">
+      <table id="color-palette">
+        <h2>Escolha sua cor abaixo:</h2>
+        <tr>
+          <td class="color selected" id="cor1"></td>
+          <td class="color" id="cor2"></td>
+          <td class="color" id="cor3"></td>
+          <td class="color" id="cor4"></td>
+        </tr>
+      </table>
+    </div>
+
+    <div id="quadradoPersonalizado">
+      <input id="board-size" type="number" min="1" max="50" />
+      <button id="generate-board">VQV</button>
+    </div>
+
+    <button id="clear-board">Limpar</button>
+
+    <br />
+
+    <div class="quadrado">
+      <table id="pixel-board" cellspacing="0"></table>
+    </div>
+    <footer>
+      <h3>Direitos reservados por: Wellington Gregorio.</h3>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>

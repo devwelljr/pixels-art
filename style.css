@@ -1,0 +1,66 @@
+#title {
+  text-align: center;
+  text-decoration: underline;
+  color: blueviolet;
+}
+
+#color-palette {
+  margin: auto;
+}
+
+#pixel-board {
+  margin: auto;
+}
+
+#clear-board {
+  width: 80px;
+  height: 50px;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 10px;
+  display: block;
+}
+
+#quadradoPersonalizado {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#generate-board {
+  transition-duration: 0.4s;
+  border: solid black 1px;
+}
+
+#generate-board:hover {
+  background-color: #4caf50;
+  color: white;
+}
+
+.color {
+  border: solid black 1px;
+  width: 40px;
+  height: 40px;
+  margin: auto;
+}
+
+.pixel {
+  background-color: white;
+  width: 40px;
+  height: 40px;
+  border: solid black 1px;
+  padding: 0%;
+}
+
+body {
+  background-image: url('fundo2.jpg');
+}
+
+footer {
+  font-size: 20px;
+  margin-top: 250px;
+  margin-bottom: 10px;
+}
+
+h2 {
+  text-align: center;
+}
