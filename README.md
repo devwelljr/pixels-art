@@ -10,6 +10,12 @@ Uma aplicação no JavaScript puro, onde é gerado 4 cores aleatórias e é poss
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
+# Habilidades
+
+- Manipular o DOM
+
+- Manipular o Javascript
+
 ## Como rodar o projeto localmente
 
 * Faça o clone do repositório
