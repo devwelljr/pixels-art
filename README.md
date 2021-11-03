@@ -1,4 +1,4 @@
-# Projec Pixels Art!
+# Project Pixels Art!
 
 Uma aplicação no JavaScript puro, onde é gerado 4 cores aleatórias e é possivel formar desenhos com estas cores além de editar o tamanho do 'quadro'.
 
