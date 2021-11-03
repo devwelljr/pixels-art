@@ -18,4 +18,4 @@ Uma aplicação no JavaScript puro, onde é gerado 4 cores aleatórias e é poss
 * Utilize o atalho `Ctrl + Shift + P` no VS Code
 * Procure por **Live Server: Open with Live Server**
 
-Projeto Pixels-Art desenvolvido na [Trybe](https://www.betrybe.com/), https://devwelljr.github.io/pixel-art/.
+Projeto Pixels-Art desenvolvido na [Trybe](https://www.betrybe.com/), https://devwelljr.github.io/pixels-art/.
